@@ -1,34 +1,5 @@
 Scheme
 {
-	//Name - currently overriden in code
-	//{
-	//	"Name"	"ClientScheme"
-	//}
-
-	//////////////////////// COLORS ///////////////////////////
-	Colors
-	{
-		"juliaFG"			"255 255 255 255"
-		"juliaFGT"			"255 255 255 128"
-
-		"juliaBG"			"0   0   0   255"
-		"juliaBGT"			"0   0   0   150"
-
-		"juliaBG2"			"20  20  20  255"
-		"juliaBG3"			"32  32  32  255"
-
-		"juliaShadow"		"0   0   0   255"
-
-		"julia+"			"116 169 204 255"
-		"julia-"			"255 62  62  255"
-
-		"juliaRed"			"255 62  62  255"
-		"juliaBlue"			"116 169 204 255"
-
-		"juliaGreen"		"0   255 64  255"
-	}
-
-	//
 	//////////////////////// FONTS /////////////////////////////
 	//
 	// describes all the fonts

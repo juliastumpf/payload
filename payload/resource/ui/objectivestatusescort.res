@@ -56,7 +56,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		""
-		fillcolor juliaFG
+		fillcolor "255 255 255 255"
 		"scaleImage"	"1"
 
 		"if_multiple_trains"
@@ -202,8 +202,8 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"labelText"		"%recede%"
-			fgcolor juliaFG
-			fgcolor_override juliaFG
+			fgcolor "255 255 255 255"
+			fgcolor_override "255 255 255 255"
 
 			"if_multiple_trains_bottom"
 			{
@@ -339,8 +339,8 @@
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			fgcolor juliaFG
-			fgcolor_override juliaFG
+			fgcolor "255 255 255 255"
+			fgcolor_override "255 255 255 255"
 
 			"if_multiple_trains_bottom"
 			{
